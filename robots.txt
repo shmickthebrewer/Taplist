@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /
+Disallow:
+Sitemap: https://shmickthebrewer.github.io/Taplist/sitemap.xml
